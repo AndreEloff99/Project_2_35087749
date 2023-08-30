@@ -54,6 +54,12 @@ namespace Project_2_35087749.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> PutCustomer(short id, Customer customer)
         {
+
+            if (CustomerExists(id))
+            {
+                return NotFound();      //Check if exist
+            }
+
             if (id != customer.CustomerId)
             {
                 return BadRequest();
