@@ -54,6 +54,12 @@ namespace Project_2_35087749.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> PutOrder(short id, Order order)
         {
+
+            if (OrderExists(id))
+            {
+                return NotFound();      //Checks if order exists
+            }
+
             if (id != order.OrderId)
             {
                 return BadRequest();

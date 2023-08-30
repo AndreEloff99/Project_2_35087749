@@ -54,6 +54,12 @@ namespace Project_2_35087749.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> PutProduct(short id, Product product)
         {
+
+            if (ProductExists(id))
+            {
+                return NotFound();          //check if exists
+            }
+
             if (id != product.ProductId)
             {
                 return BadRequest();
@@ -117,7 +123,7 @@ namespace Project_2_35087749.Controllers
 
             if (ProductExists(id))
             {
-                return NotFound();
+                return NotFound();          //check if exists
             }
 
 
