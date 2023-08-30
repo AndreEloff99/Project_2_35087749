@@ -113,6 +113,13 @@ namespace Project_2_35087749.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteOrder(short id)
         {
+
+            if (OrderExists(id))
+            {
+                return NotFound();      //Checks if order exists
+            }
+
+
             if (_context.Orders == null)
             {
                 return NotFound();
