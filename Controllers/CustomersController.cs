@@ -113,6 +113,12 @@ namespace Project_2_35087749.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteCustomer(short id)
         {
+            if (CustomerExists(id))
+            {
+                return NotFound();      //Check if exist
+            }
+            
+          
             if (_context.Customers == null)
             {
                 return NotFound();
