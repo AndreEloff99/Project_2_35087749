@@ -9,7 +9,8 @@ The coding is done on the develop branch, if the code works then it is ready to 
 Burndown Chart:
 
 
-![image](https://github.com/AndreEloff99/Project_2_35087749/assets/88395754/05cfbe70-b233-4e18-b424-e33dd507155d)
+![image](https://github.com/AndreEloff99/Project_2_35087749/assets/88395754/032b028f-973e-4d11-ae78-04635ad3e2cc)
+
 
 
 Refereneces:
