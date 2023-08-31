@@ -4,7 +4,9 @@ This is a new repository due to unfavourable events I had to recreate the assign
 Repo link = gh repo clone AndreEloff99/Project2-35087749
 The project connected to the old repository is linked to the new repository.
 
-The coding is done on the develop branch, if the code works then it is ready to be pushed to the master branch to merge with the master branch.
+
+The coding is done on the develop branch, if the code works then it is ready to be pushed to the master branch to merge with the master branch. In the AuthDev branch I am busy doing the Autenticaion. I have add all the given code but it is not working and that is why it is not on the master branch, the master branch is for working non error code.
+
 
 Burndown Chart:
 
