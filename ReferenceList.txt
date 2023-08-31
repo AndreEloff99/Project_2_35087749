@@ -8,4 +8,4 @@ Microsoft. Microsoft.AspNetCore.Identity.EntityFrameworkCore Namespace. [Online]
 
 Simplilearn. (2023). What is Microsoft Azure: How Does It Work and Services. [Online]. Available at: https://www.simplilearn.com/tutorials/azure-tutorial/what-is-azure (Accessed: 31 August 2023).
 
-Ascent Technology Consulting. (2022). Prepare for SQL Server 2012 End of Support. [Online]. Available at: https://www.ascent.tech/prepare-for-sql-server-2012-end-of-support/?gclid=Cj0KCQjw9MCnBhCYARIsAB1WQVUeTvMQ5_kYjaleiWFFje6_m-ym4g_rFpxMFJn4A2iMbdSKp5NCzpMaAkSrEALw_wcB (Accessed: 31 August 2023).
+Microsoft. (2023). Instance-level public IP address configuration in Cloud Services. [Online]. Available at: https://learn.microsoft.com/en-us/troubleshoot/azure/cloud-services/instance-level-public-ip-address-configuration?tabs=powershell (Accessed: 31 August 2023).
