@@ -44,3 +44,4 @@ username: serviceadmin
 password: JesusIsKing#1
 
 Link to Project: https://github.com/users/AndreEloff99/projects/7
+Azure Site: https://project23508774920230830134952.azurewebsites.net
