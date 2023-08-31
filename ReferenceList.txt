@@ -1,0 +1,7 @@
+Refereneces:
+
+Microsoft. (2023). Getting Started with EF Core. [Online]. Available at: https://learn.microsoft.com/en-us/ef/core/get-started/overview/first-app?tabs=netcore-cli (Accessed: 30 August 2023).
+
+Microsoft. (2022). ASP.NET Core web API documentation with Swagger / OpenAPI. [Online]. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-7.0 (Accessed: 30 August 2023).
+
+Microsoft. Microsoft.AspNetCore.Identity.EntityFrameworkCore Namespace. [Online]. Available at: https://learn.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.entityframeworkcore?view=aspnetcore-1.1 (Accessed: 30 August 2023).
